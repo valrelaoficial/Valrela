@@ -1,0 +1,43 @@
+<form action="/pagina-processa-dados-do-form" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" />
+    </div>
+    <div>
+     <label for="Data de nascimento">Data de nascimento:</label>
+        <input type="data de nascimento" id=" data de nascimento" />
+         </div>
+    <div>
+        <label for="endereço">endereço:</label>
+        <input type="endereço" id="endereço" />
+    </div>
+    <div>
+    <label for="Telefone">telefone:</label>
+        <input type="telefone" id="telefone" />
+    </div>
+    <div>
+    <label for="Whatsapp">Whatsapp:</label>
+        <input type="Whatsapp" id="Whatsapp" />
+    </div>
+    <div>
+         
+        <label for="cidade">cidade:</label>
+        <input type="cidade" id="cidade" />
+    </div>
+    <div>
+     
+        <label for="estado">Estado:</label>
+        <input type="estado" id="estado" />
+    </div>
+    <div>
+    <label for="email">E-mail:</label>
+        <input type="email" id="email" />
+         </div>
+    <div>
+    <label for="email">E-mail:</label>
+        <input type="email" id="email" />
+             </div>
+    <div>
+    <label for="CPF/CNPJ">CPF/CNPJ:</label>
+        <input type="CPF/CNPJ" id="CPF/CNPJ" />
+</form>
