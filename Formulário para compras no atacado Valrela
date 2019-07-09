@@ -1,4 +1,51 @@
-<form action="/pagina-processa-dados-do-form" method="post">
+form div + div {
+  margin : 0
+  width: 400px;
+  /*
+  padding: 1em;
+  border-radius: 1em;
+  }
+  label {
+  /*
+  display: inline-block;
+  width:  90px;
+  text-align: right;
+  }
+  input,  textarea {
+  /*
+  font:  1em sans-serif;
+  
+  /*
+  width: 300px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+  /*
+  border: 1px solid #999;
+  }
+  input:focus, textarea:focus {
+  /*
+  border-color: #000;
+  }
+  textarea {
+  /*
+  vertical-align: top;
+  
+  /*
+  height: 5em;
+  
+  /*
+  resize: vertical;
+  }
+  .button {
+  /*
+  padding-left: 90px; /*
+  }
+  button {
+  /*
+  margin-left: .5em;
+  }
+  <form action="/pagina-processa-dados-do-form" method="post">
     <div>
         <label for="nome">Nome:</label>
         <input type="text" id="nome" />
@@ -40,4 +87,7 @@
     <div>
     <label for="CPF/CNPJ">CPF/CNPJ:</label>
         <input type="CPF/CNPJ" id="CPF/CNPJ" />
+        <div class="button">
+        <button type="submit">Enviar sua mensagem<button>
+        </div>
 </form>
